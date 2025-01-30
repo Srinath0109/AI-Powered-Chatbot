@@ -1,0 +1,9 @@
+AIChatbot/
+│── app.py                # Main Flask Application
+│── chatbot.py            # Chatbot Logic using GPT
+│── preprocess.py         # Text Preprocessing (NLTK)
+│── config.py             # Configuration Settings
+│── templates/            # Frontend (HTML, CSS)
+│   │── index.html
+│── requirements.txt      # Dependencies
+│── README.md             # Documentation
